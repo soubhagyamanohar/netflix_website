@@ -1,6 +1,15 @@
 # netflix_website
 creating a frontend of netflix app using html and css
 
+Prepared by 
+1. https://github.com/soubhagyamanohar
+
+2. https://github.com/vachanasasimath
+
+3. https://github.com/SrushtiBasaragi
+
+4. https://github.com/SamruddhiHiremath
+
 # Introduction to HTML and CSS
 
 ### What is HTML and CSS?
